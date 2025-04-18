@@ -1,0 +1,14 @@
+{
+  "name": "devops-practica-final",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo para CI/CD con GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nicol Cuello",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
